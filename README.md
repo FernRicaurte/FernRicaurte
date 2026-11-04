@@ -1,6 +1,6 @@
 ## Hi, I'm Fernando Ricaurte
 
-**M.S. in Data Analytics candidate at the University of Central Florida (May 2027) · Machine Learning · Python · R · SQL**
+**M.S. in Data Analytics candidate at the University of Central Florida (May 2027) · Machine Learning · Statistical Analysis · Python · R · SQL**
 
 I turn data into clear decisions. After 10+ years as a bilingual special education math teacher, where I tracked student progress data and explained it to families and colleagues, I'm moving into data science. I build and evaluate machine learning models in Python and R, and I care as much about communicating results as producing them.
 

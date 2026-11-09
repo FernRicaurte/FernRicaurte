@@ -11,7 +11,7 @@ I turn data into clear decisions. After 10+ years as a bilingual special educati
 
 | Project | What it does | Result | Stack |
 |---|---|---|---|
-| [Hazardous Near-Earth Object Classification](https://github.com/FernRicaurte/hazardous-neo-classification) | Compares 8 classifiers on NASA asteroid data where only 7% of objects are hazardous | Test AUC 0.999, 8 of 499 hazards missed | R, caret, glmnet, randomForest, gbm |
+| [Hazardous Near-Earth Object Classification](https://github.com/FernRicaurte/hazardous-neo-classification) | Compares 8 classifiers on NASA asteroid data where only 7% of objects are hazardous | Test AUC 0.999, 8 of 499 hazards missed; leakage check shows labels follow NASA's hazard rule | R, caret, glmnet, randomForest, gbm |
 | [E-Commerce Purchase Intent Prediction](https://github.com/FernRicaurte/online-shopper-purchase-intent) | Predicts purchases from 12,330 browsing sessions with 6 tuned models | XGBoost test F1 0.69, ROC-AUC 0.93 | Python, pandas, scikit-learn, XGBoost |
 | [Australian Wildfire Satellite Analysis](https://github.com/FernRicaurte/australia-wildfire-satellite-analysis) | Predicts high-confidence fire detections from 183,593 NASA satellite observations | 82% accuracy, ROC-AUC 0.88; a GLM raised R² from 0.33 to 0.55 | Python, scikit-learn, statsmodels |
 
